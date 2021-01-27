@@ -24,5 +24,5 @@ $> Saved. Data in recomendedTrades.xlsx
 ```
 
 <p align="center">
-  <img src='readme_img/eSP500.png'/ >
+  <img src='readm_img/eSP500.png'/ >
 </p>
