@@ -22,3 +22,7 @@ After that, a prompt will ask for a portfolio value (quantity to be invested) in
 $> Enter the value of your portfolio(USD$): 10000000
 $> Saved. Data in recomendedTrades.xlsx
 ```
+
+<p align="center">
+  <img src='readme_img/eSP500.png'/ >
+</p>
