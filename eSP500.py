@@ -42,7 +42,7 @@ returns a pd.DataFrame with the requested information for each stock
 """
 def retrieve():
     # List of symbol identifiers of S&P500 stocks
-    stocks = pd.read_csv("sp_500_stocks.csv")
+    stocks = pd.read_csv("assets/sp_500_stocks.csv")
 
     # Initialize DataFrame
     my_columns = ['Ticker', 'Stock Price', 'Market Capitalization', 'Number of shares to buy']
